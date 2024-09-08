@@ -33,4 +33,5 @@ Histograms: Show the distribution of a single variable.
 Box Plots: Visualize the distribution and identify outliers.
 Scatter Plots: Display the relationship between two continuous variables and help visualize correlations.
 Regression Lines: Illustrate the relationship between variables in a regression analysis.
+
 These concepts form the foundation of statistical analysis in Python and can be implemented using libraries such as pandas, numpy, scipy, statsmodels, and matplotlib.
